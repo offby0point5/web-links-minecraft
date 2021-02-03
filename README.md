@@ -12,6 +12,7 @@ Open-Source Server [Glowstone](https://www.glowstone.net/)
 
 Servers:
 * [Vanilla](https://getbukkit.org/download/vanilla)
+* [Forge (Vanilla with Mods)](https://files.minecraftforge.net/)
 * [CraftBukkit (Vanilla with Plugins)](https://getbukkit.org/download/craftbukkit)
 * [Spigot (High Performance CraftBukkit)](https://getbukkit.org/download/spigot)
 * [PaperMC (High Performance Spigot)](https://papermc.io/downloads)
