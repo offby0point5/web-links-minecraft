@@ -20,3 +20,4 @@ Servers:
 Proxies:
 * [BungeeCord](https://ci.md-5.net/job/BungeeCord/)
 * [WaterFall (High Performance BungeeCord)](https://papermc.io/downloads#Waterfall)
+* [Velocity](https://velocitypowered.com/downloads)
