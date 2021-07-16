@@ -7,6 +7,13 @@ Some minecraft [server software projects](https://www.spigotmc.org/wiki/what-is-
 Easy server management with [MineOS](https://minecraft.codeemo.com/)
 
 Open-Source Server [Glowstone](https://www.glowstone.net/)
+
+Opensource 1.17 server framework Minestom:
+- [GitHub](https://github.com/Minestom/Minestom)
+- [Wiki](https://wiki.minestom.com/)
+- [JavaDocs](https://minestom.github.io/Minestom/index.html)
+- [Extensions/Plugins](https://package.krystilize.com/extensions)
+
 ***
 ### Downloads
 
