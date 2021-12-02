@@ -8,11 +8,11 @@ Easy server management with [MineOS](https://minecraft.codeemo.com/)
 
 Open-Source Server [Glowstone](https://www.glowstone.net/)
 
-Opensource 1.17 server framework Minestom:
+Opensource 1.17.1 -> 1.18 server framework Minestom:
 - [GitHub](https://github.com/Minestom/Minestom)
 - [Wiki](https://wiki.minestom.com/)
-- [JavaDocs](https://minestom.github.io/Minestom/index.html)
-- [Extensions/Plugins](https://package.krystilize.com/extensions)
+- [JavaDocs](https://javadoc.minestom.net/)
+- [Extensions/Plugins](https://package.krystilize.com/)
 
 ***
 ### Downloads
