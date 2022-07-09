@@ -17,10 +17,12 @@ Opensource 1.17.1 -> 1.18 server framework Minestom:
 ***
 ### Downloads
 
+Modloaders:
+* [Forge](https://files.minecraftforge.net/)
+* [Fabric](https://fabricmc.net/)
+
 Servers:
 * [Vanilla](https://getbukkit.org/download/vanilla)
-* [Forge (Vanilla with Mods)](https://files.minecraftforge.net/)
-* [Fabric (Vanilla with Mods)](https://fabricmc.net/)
 * [CraftBukkit (Vanilla with Plugins)](https://getbukkit.org/download/craftbukkit)
 * [Spigot (High Performance CraftBukkit)](https://getbukkit.org/download/spigot)
 * [PaperMC (High Performance Spigot)](https://papermc.io/downloads)
