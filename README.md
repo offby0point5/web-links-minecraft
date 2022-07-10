@@ -8,11 +8,11 @@ Easy server management with [MineOS](https://minecraft.codeemo.com/)
 
 Open-Source Server [Glowstone](https://www.glowstone.net/)
 
-Opensource 1.17.1 -> 1.18 server framework Minestom:
+Opensource 1.18.2 server framework Minestom:
 - [GitHub](https://github.com/Minestom/Minestom)
 - [Wiki](https://wiki.minestom.com/)
 - [JavaDocs](https://javadoc.minestom.net/)
-- [Extensions/Plugins](https://package.krystilize.com/)
+- [Extensions](https://minestom.net/extensions/)
 
 ***
 ### Downloads
@@ -27,6 +27,7 @@ Servers:
 * [CraftBukkit (Vanilla with Plugins)](https://getbukkit.org/download/craftbukkit)
 * [Spigot (High Performance CraftBukkit)](https://getbukkit.org/download/spigot)
 * [PaperMC (High Performance Spigot)](https://papermc.io/downloads)
+* [Minestom implementations](https://minestom.net/implementations/)
 
 Proxies:
 * [BungeeCord](https://ci.md-5.net/job/BungeeCord/)
