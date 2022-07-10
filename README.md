@@ -28,6 +28,7 @@ Servers:
 * [Spigot (High Performance CraftBukkit)](https://getbukkit.org/download/spigot)
 * [PaperMC (High Performance Spigot)](https://papermc.io/downloads)
 * [Minestom implementations](https://minestom.net/implementations/)
+* [Glowstone](https://www.glowstone.net/)
 
 Proxies:
 * [BungeeCord](https://ci.md-5.net/job/BungeeCord/)
