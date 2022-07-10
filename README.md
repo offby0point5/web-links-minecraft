@@ -20,6 +20,7 @@ Opensource 1.17.1 -> 1.18 server framework Minestom:
 Modloaders:
 * [Forge](https://files.minecraftforge.net/)
 * [Fabric](https://fabricmc.net/)
+* [Quilt (compatible with Fabric)](https://quiltmc.org/)
 
 Servers:
 * [Vanilla](https://getbukkit.org/download/vanilla)
